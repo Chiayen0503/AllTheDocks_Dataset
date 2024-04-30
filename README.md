@@ -6,7 +6,7 @@ This is repository for our work "AllTheDocks road safety dataset: A cyclist’s 
 * GPS (location, height, speed)
 * Gyroscope
 
-### To download preprocessed, merged data (include above types and IRI), go to ```data/interpolation/```
+### To download preprocessed, merged data (include above three data and IRI), go to ```data/interpolation/```
 ### To download GoPro videos and images, visit links: 
 * (1) Videos (```MP4```): 
 * (2) Images (```jpg```): 
